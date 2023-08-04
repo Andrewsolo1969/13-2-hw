@@ -64,9 +64,12 @@ sudo ecryptfs-migrate-home -u cryptouser
 Подготовка, монтирование и форматирование раздела
 
 
+
 ![z23.PNG](https://github.com/Andrewsolo1969/13-1-hw/blob/main/img/z23.PNG)
 
+
 Монтирование «открытого» раздела и зашифрованный раздел:
+
 
 ![z24.PNG](https://github.com/Andrewsolo1969/13-1-hw/blob/main/img/z24.PNG)
 
