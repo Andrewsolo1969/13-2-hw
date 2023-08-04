@@ -46,13 +46,32 @@ sudo ecryptfs-migrate-home -u cryptouser
 ## Задание 2
 
 - Установите поддержку LUKS.
+
+ Подготовка
+
+ ![z2-1.PNG](https://github.com/Andrewsolo1969/13-2-hw/blob/main/img/z2-1.PNG)
+
 - Создайте небольшой раздел, например, 100 Мб.
+
+ ![gpart.PNG](https://github.com/Andrewsolo1969/13-2-hw/blob/main/img/gpart.PNG)
+
+
 - Зашифруйте созданный раздел с помощью LUKS.
 
 В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.
 
 
-![SYN.PNG](https://github.com/Andrewsolo1969/13-1-hw/blob/main/img/SYN.PNG)
+Подготовка, монтирование и форматирование раздела
+
+
+![z2-3.PNG](https://github.com/Andrewsolo1969/13-1-hw/blob/main/img/z2-3.PNG)
+
+Монтирование «открытого» раздела и зашифрованный раздел:
+
+![z2-4.PNG](https://github.com/Andrewsolo1969/13-1-hw/blob/main/img/z2-4.PNG)
+
+
+
 
 
 
