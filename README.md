@@ -49,7 +49,7 @@ sudo ecryptfs-migrate-home -u cryptouser
 
  Подготовка
 
- ![z2-1.PNG](https://github.com/Andrewsolo1969/13-2-hw/blob/main/img/z2-1.PNG)
+ ![z2_1.PNG](https://github.com/Andrewsolo1969/13-2-hw/blob/main/img/z2_1.PNG)
 
 - Создайте небольшой раздел, например, 100 Мб.
 
@@ -64,11 +64,11 @@ sudo ecryptfs-migrate-home -u cryptouser
 Подготовка, монтирование и форматирование раздела
 
 
-![z2-3.PNG](https://github.com/Andrewsolo1969/13-1-hw/blob/main/img/z2-3.PNG)
+![z2_3.PNG](https://github.com/Andrewsolo1969/13-1-hw/blob/main/img/z2_3.PNG)
 
 Монтирование «открытого» раздела и зашифрованный раздел:
 
-![z2-4.PNG](https://github.com/Andrewsolo1969/13-1-hw/blob/main/img/z2-4.PNG)
+![z2_4.PNG](https://github.com/Andrewsolo1969/13-1-hw/blob/main/img/z2_4.PNG)
 
 
 
